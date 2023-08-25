@@ -1,0 +1,193 @@
+.lista {
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tituloemilia{
+
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.790);
+    font-size: 30px;
+}
+
+.tituloprincipal{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    background-color:rgb(255, 250, 250,0.6);
+}
+
+#body{
+    background-image: url("../emilia/emiliaColeMateriales/img/home.jpg");
+    background-position: center right;
+    background-size: 1047px;
+    background-repeat: no-repeat;
+
+}
+
+.linka{
+    text-decoration: none;
+}
+
+/*about*/
+
+.lista2 {
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif; 
+    
+}
+
+.aboutemilia{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif; 
+    color: rgba(0, 0, 0, 0.790);
+    font-size: 30px;
+}
+
+.grande{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-size: 18px;
+color: #5DC1B9;
+background-color:rgb(255, 250, 250,0.6);
+font-weight: bold;
+}
+.chica{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-size: 13px;
+color: #5DC1B9;
+background-color:rgb(255, 250, 250,0.6);
+}
+
+#body2{
+ background-image: url(../emilia/emiliaColeMateriales/img/about.jpg);
+ background-position: center right;
+ background-size: 1125px;
+ background-repeat: no-repeat;
+}
+
+.linka{
+    text-decoration: none;
+}
+
+/*music*/
+
+.lista3{
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif; 
+}
+.MUSIC{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.primerh3{
+    font-weight: bolder;
+color: black;
+}
+
+.cancion1{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-size: 15px;
+font-weight: bold;
+}
+
+.organic{
+    font-weight: bold;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+
+.segundoh3{
+    font-weight: bolder;
+color: black;
+}
+
+.fotoauto{
+   width: 640px;
+}
+
+.linka{
+    text-decoration: none;
+}
+
+.linkavideo{
+    text-decoration: none;
+color: black;
+}
+
+/*contact*/
+
+.lista4 {
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.contact{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.wearehere{
+    font-weight: bolder;
+color: black;
+}
+
+.mapa{
+    height: 450px;
+    width: 100%;
+}
+
+.ultimo{
+    color: #5DC1B9;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-weight: bold;
+
+}
+
+.mailytele{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+color:darkgrey;
+}
+
+.aa{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+
+.linka{
+    text-decoration: none;
+}
